@@ -1,0 +1,91 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.page{
+
+    background-color: rgb(248, 246, 246);
+}
+
+.box{
+    background-color: white;
+    width: 50%;
+    box-sizing: border-box;
+    border: 2px solid white;
+    border-radius: 10px;
+}
+
+.shape{
+    width: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.sStyle{
+    color: white;
+    box-sizing: border-box;
+    border: 1px solid rgb(28, 135, 235);
+    background-color: rgb(28, 135, 235);
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.sStyle a{
+    text-decoration: none;
+    color: white;
+}
+
+.sStyle a:hover{
+    text-decoration: none;
+    color: white;
+}
+
+.pStyle{
+    text-decoration: none;
+    color: black;
+}
+
+.pStyle:hover{
+    text-decoration: none;
+    color: black;
+}
+
+.fStyle{
+    box-sizing: border-box;
+    border: 1px solid blue;
+    background-color: blue;
+    padding: 8px;
+    border-radius: 5px;
+}
+
+.face a{
+    text-decoration: none;
+    color: rgb(23, 147, 230);    
+}
+
+.face a:hover{
+    text-decoration: none;
+    color: rgb(23, 147, 230);    
+    
+}
+
+.dont a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.dont a:hover{
+    text-decoration: none;
+    color: black;
+}
+
+.create a{
+    text-decoration: none;
+    color: rgb(23, 147, 230);
+}
+
+.create a:hover{
+    text-decoration: none;
+    color: rgb(23, 147, 230);
+}
